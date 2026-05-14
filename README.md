@@ -184,3 +184,6 @@ Hi, I am Sourov from Dhaka
 Hi there, I'm Shakib from Chattogram.
 
 Hello, I'm Tahshin Sharon From Mirpur,Dhaka
+
+Hola, I'm Tuhin Chowdhury, re-practicing Git from the beginning with my coursemates, although i use git everyday.
+Btw, i am from Chittagong , Living in Dhaka .
